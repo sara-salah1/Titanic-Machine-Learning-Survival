@@ -8,7 +8,6 @@ This project aims to predict survival on the Titanic using various machine learn
  - [Models Used](#ModelsUsed)
  - [Evaluation Metrics](#EvaluationMetrics)
 - [Usage](#usage)
-- [Screenshots](#Screenshots)
 
   
 ## Introduction
