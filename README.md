@@ -13,7 +13,7 @@ This project aims to predict survival on the Titanic using various machine learn
   
 ## Introduction
 
-The Titanic dataset offers insights into passengers aboard the RMS Titanic. This project aims to predict survival based on factors like age, sex, and ticket class using machine learning. Through algorithms such as logistic regression, decision trees, and ensemble methods, we seek to uncover survival patterns. Evaluation metrics like accuracy and F1 score guide our model selection, while techniques like GridSearchCV optimize performance. Join us as we explore the Titanic dataset to understand the factors behind this historic tragedy.
+The Titanic dataset offers insights into passengers aboard the RMS Titanic. This project aims to predict survival based on factors like age, sex, and ticket class using machine learning. Through algorithms such as logistic regression, decision trees, and ensemble methods, we seek to uncover survival patterns. Evaluation metrics like accuracy and F1 score guide our model selection, while techniques like GridSearchCV optimize performance.
 
 
 ## Models Used
